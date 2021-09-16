@@ -19,9 +19,8 @@ function multiply($x, $y){
 function divide($x, $y){
 	return $x / $y;
 }
-
-echo add(1,2).PHP_EOL;
-echo subtract(1,2).PHP_EOL;
+echo add(1,4.PHP_EOL;
+echo subtract(5,2).PHP_EOL;
 echo multiply(1,2).PHP_EOL;
 echo divide(1,2).PHP_EOL;
 
