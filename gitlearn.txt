@@ -1,0 +1,40 @@
+
+Git is a version control system -> github, bitbucket, gitlab
+
+git init for new repo or clone old repo
+git add -> stage
+if want to reset a file from stage to current working directory run >> git reset file_path
+git commit -> index =>>> |_commit__| committed in index as stack
+git log -> what has committed
+git push -> if repo url is not added run >> git remote add origin (repo alias) url
+adding gitigore file
+
+
+
+pull and push 
+
+Branches - 
+create branches
+checkout  -> add & commit  changes
+push branches
+merge branches
+fetch branches
+git diff
+
+
+git stash while pull new changes
+git stash ->> working driectory changes goes to local stack
+git stash list - >
+git stash pop or git stash apply
+
+
+
+feature 1 -----|
+               |
+feature 2 -----| >>>> develop >> testing >> master or main
+               |
+feature 3 -----|
+
+git cherry-pick
+
+
